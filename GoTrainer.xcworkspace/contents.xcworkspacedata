@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Routes">
+      <FileRef
+         location = "group:Routes/pier-39-rounds.gpx">
+      </FileRef>
+      <FileRef
+         location = "group:Routes/union-square-rounds.gpx">
+      </FileRef>
+      <FileRef
+         location = "group:Routes/union-square-to-pier-39.gpx">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:GoTrainer.xcodeproj">
+   </FileRef>
+</Workspace>

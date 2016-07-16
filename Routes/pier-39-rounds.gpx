@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/nguillaumin/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+    <wpt lat="37.808620" lon="-122.409166">
+        <ele>24.0</ele>
+        <time>2016-07-12T16:19:00Z</time>
+    </wpt>
+    <wpt lat="37.811199" lon="-122.410892">
+        <ele>24.0</ele>
+        <time>2016-07-12T16:21:30Z</time>
+    </wpt>
+    <wpt lat="37.808620" lon="-122.409166">
+        <ele>24.0</ele>
+        <time>2016-07-12T16:24:00Z</time>
+    </wpt>
+</gpx>
